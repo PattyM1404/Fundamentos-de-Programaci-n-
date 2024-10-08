@@ -7,7 +7,7 @@ def bubble_sort(fila):
             if fila[j] > fila[j+1]:
                 fila[j], fila[j+1] = fila[j+1], fila[j]
 
-# Definimos la función para ordenar una fila específica de la matriz
+# Definimos un función para ordenar una fila específica de la matriz
 def ordenar_fila_matriz(matriz, fila_a_ordenar):
     # Mostramos la matriz original
     print("Matriz original:")
