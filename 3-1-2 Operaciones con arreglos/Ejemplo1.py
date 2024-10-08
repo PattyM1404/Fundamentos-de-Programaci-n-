@@ -1,4 +1,4 @@
-# Definimos una función para buscar un valor dentro de una matriz bidimensional
+# Definimos una función para buscar un valor dentro de la matriz bidimensional
 def buscar_en_matriz(matriz, valor_a_buscar):
     # Recorremos la matriz usando dos bucles anidados (filas y columnas)
     for i in range(len(matriz)):  # Bucle para recorrer las filas
