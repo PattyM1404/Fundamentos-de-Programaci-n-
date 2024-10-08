@@ -22,7 +22,7 @@ def ordenar_fila_matriz(matriz, fila_a_ordenar):
     for fila in matriz:
         print(fila)
 
-# Creamos una matriz bidimensional de 3x3 con valores numéricos
+# Creamos la matriz bidimensional de 3x3 con valores numéricos
 matriz = [
     [9, 3, 7],
     [5, 1, 8],
