@@ -1,6 +1,6 @@
 import random
 
-# Aquí defino las dimensiones de la matriz 3D
+# Aquí definimos las dimensiones de la matriz 3D
 ciudades = ["Ciudad1", "Ciudad2", "Ciudad3"]
 dias_de_la_semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
 semanas = 4
